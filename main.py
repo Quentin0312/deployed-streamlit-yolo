@@ -3,9 +3,9 @@ import streamlit as st
 from PIL import Image
 
 # from utils import makePrediction
-# from ultralytics import YOLO
+from ultralytics import YOLO
 
-import cv2
+# import cv2
 
 
 # def makePrediction(image):
